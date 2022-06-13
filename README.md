@@ -1,5 +1,5 @@
-# exercise-cab-off
-a simple coding exercise for an interview
+# FastAPI example
+a simple coding exercise
 
 # Run instructions
 Install Python 3.8 or later
